@@ -1,5 +1,5 @@
 # Aerospace-Robotic
-Preliminary mission design to Uranus with pathced-conics method
+Preliminary mission design to Uranus with patched-conics method
 
 The scope of this project is to design a trajectory from Earth to Uranus using several FlyBys and compare it with the classic Hohmann Transfer in terms of total DeltaV and mission time.
 
